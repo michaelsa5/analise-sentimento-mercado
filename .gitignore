@@ -1,1 +1,8 @@
+<<<<<<< HEAD
+# Ignorar arquivos locais
 venv/
+=======
+# Ignorar arquivos do sistema
+*.log
+__pycache__/
+>>>>>>> main
