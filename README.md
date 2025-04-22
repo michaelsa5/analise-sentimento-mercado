@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-# Meu Projeto Local
-
-Descrição do projeto local.
-=======
-# Analise Sentimento Mercado
-
-Descrição do projeto no GitHub.
->>>>>>> maingit add .# 📊 Inteligência Competitiva no Varejo de Smartphones
+# 📊 Inteligência Competitiva no Varejo de Smartphones
 
 Projeto completo de análise e visualização de dados com foco em **Inteligência Competitiva**, integrando **Big Data**, **Web Scraping**, **Análise Exploratória**, **Previsão de Preços**, **Tendências de Busca** e **Reputação de Marcas** no segmento de **smartphones**.
 
